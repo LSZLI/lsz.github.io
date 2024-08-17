@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>初一暑假作文《又一次站在这里》</title>
+    <link href="/2024/08/14/%E4%B8%83%E5%B9%B4%E7%BA%A7-%E6%9A%91%E5%81%87%E4%BD%9C%E6%96%87%E3%80%8A%E5%8F%88%E4%B8%80%E6%AC%A1%E7%AB%99%E5%9C%A8%E8%BF%99%E9%87%8C%E3%80%8B/"/>
+    <url>/2024/08/14/%E4%B8%83%E5%B9%B4%E7%BA%A7-%E6%9A%91%E5%81%87%E4%BD%9C%E6%96%87%E3%80%8A%E5%8F%88%E4%B8%80%E6%AC%A1%E7%AB%99%E5%9C%A8%E8%BF%99%E9%87%8C%E3%80%8B/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>#占位符</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Dolphin NGC boot menu 展示+教程</title>
+    <link href="/2024/08/01/dolphin%E6%8A%98%E8%85%BE%E8%AE%B0-NGC%E5%90%AF%E5%8A%A8%E7%95%8C%E9%9D%A2-Wiimenu/"/>
+    <url>/2024/08/01/dolphin%E6%8A%98%E8%85%BE%E8%AE%B0-NGC%E5%90%AF%E5%8A%A8%E7%95%8C%E9%9D%A2-Wiimenu/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><h1 id="Dolphin-NGC-boot-menu"><a href="#Dolphin-NGC-boot-menu" class="headerlink" title="Dolphin NGC boot menu"></a>Dolphin NGC boot menu</h1><blockquote><p><img src="/images/pasted-2.png" alt="upload successful"><br><img src="/images/pasted-1.png" alt="upload successful"><br>（效果展示）</p></blockquote><p>说实话，真的没什么意思，除非你想有较真实的NGC体验,当我没说</p><p>首先下载boot文件：<a href="https://wwus.lanzouj.com/iScyg265kvbg">https://wwus.lanzouj.com/iScyg265kvbg</a></p><p>然后打开你的dolphin依次点击 “打开—&gt;打开用户目录”就像下图那样</p><p><img src="/images/pasted-3.png" alt="upload successful"><br><img src="/images/pasted-4.png" alt="upload successful"></p><p>解压下载的文件，把里面的文件夹全一股脑塞到刚才弹出的文件夹目录</p><p>然后编辑dolphin.ini文件（windows下在C：&#x2F;Users&#x2F;username&#x2F;AppData&#x2F;Roaming&#x2F;Dolphin Emulator&#x2F;Config&#x2F;里），将skipIPL一行中的true改成false</p><p>At least，Enjoy it！！！</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>游戏</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>linux</tag>
+      
+      <tag>dolphin</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
